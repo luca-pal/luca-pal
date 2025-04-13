@@ -14,10 +14,14 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages**: Java (main focus), SQL basics  
-- **Tools**: IntelliJ IDEA, Gradle, JUnit, Mockito  
-- **Databases**: SQLite  
-- **Practicing**: Clean architecture, version control, backend logic
+- **Languages**: Java  
+- **Frameworks**: Spring Boot (learning)  
+- **Architecture**: MVC  
+- **Databases**: SQLite, SQL  
+- **Version Control**: Git, GitHub  
+- **Testing**: JUnit, Mockito  
+- **Build Tools**: Gradle  
+- **IDEs**: IntelliJ IDEA, NetBeans
 
 ---
 
