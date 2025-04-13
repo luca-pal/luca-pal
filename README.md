@@ -20,7 +20,7 @@
 - **Databases**: SQLite, SQL  
 - **Version Control**: Git, GitHub  
 - **Testing**: JUnit, Mockito  
-- **Build Tools**: Gradle  
+- **Build Tools**: Gradle, Maven
 - **IDEs**: IntelliJ IDEA, NetBeans
 
 ---
