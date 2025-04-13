@@ -15,7 +15,7 @@
 
 ### 🛠️ Tech Stack
 - **Languages**: Java  
-- **Frameworks**: Spring Boot (learning)  
+- **Frameworks**: Spring Boot  
 - **Architecture**: MVC  
 - **Databases**: SQLite, SQL  
 - **Version Control**: Git, GitHub  
