@@ -3,7 +3,7 @@
 🎓 Computer Software Engineering student  
 💻 Backend-focused Java developer in progress  
 🏦 CEO of Fake Bank (in my console)  
-🐋 Scuba Dive Master, comfortable under pressure  
+🐋 Scuba Divemaster, comfortable under pressure  
 ☕ On a quest to turn coffee and curiosity into clean code
 
 ---
