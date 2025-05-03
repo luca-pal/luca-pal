@@ -1,10 +1,10 @@
 # 🔵🔵 Call me Luca 🔵🔵
 
-🎓 Computer Software Engineering student  
-💻 Backend-focused Java developer in progress  
-🏦 CEO of Fake Bank (in my console)  
-🦑 Scuba Divemaster, comfortable under pressure  
-☕ On a quest to turn coffee and curiosity into clean code
+-> Computer Software Engineering student  
+--> Backend-focused Java developer in progress  
+---> CEO of Fake Bank (in my console)  
+----> Scuba Divemaster, comfortable under pressure  
+-----> On a quest to turn coffee and curiosity into clean code
 
 ---
 
