@@ -4,7 +4,7 @@
 --> Backend-focused Java developer in progress  
 ---> CEO of Fake Bank (in my console)  
 ----> Scuba Divemaster, comfortable under pressure  
------> On a quest to turn coffee and curiosity into clean code
+-----> On a quest to turn coffee, tea and the occasional mate into clean code
 
 ---
 
@@ -26,5 +26,6 @@
 ---
 
 ### 🧙 Currently Leveling Up
-- Spring (framework, not the season)
+- Spring Framework (cause it's the right season)
 - Git & GitHub fluency
+- Front-end foundamentals (HTML, CSS, JavaScript)
