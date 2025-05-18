@@ -10,7 +10,7 @@
 
 ### 💾 Projects
 - **[FakeBank](https://github.com/luca-pal/FakeBank)** – A Java-based console banking system with SQLite persistence, logging, and full unit testing.
-- - **[ScubaKeep](https://github.com/luca-pal/ScubaKeep)** – A Spring Boot REST API for logging and managing scuba dives, featuring DTO mapping, validation, and unit-tested service logic.
+- **[ScubaKeep](https://github.com/luca-pal/ScubaKeep)** – A Spring Boot REST API for logging and managing scuba dives, featuring DTO mapping, validation, and unit-tested service logic.
 
 ---
 
