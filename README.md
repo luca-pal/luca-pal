@@ -1,16 +1,16 @@
 # 🔵🔵 Call me Luca 🔵🔵
 
 -> Computer Software Engineering student  
---> Backend-focused Java developer in progress  
----> CEO of Fake Bank (in my console)  
-----> Scuba Divemaster, comfortable under pressure  
------> On a quest to turn coffee, tea and the occasional mate into clean code
+--> Backend-focused Java developer in progress   
+---> Scuba Divemaster, comfortable under pressure  
+----> On a quest to turn coffee, tea and the occasional mate into clean code
 
 ---
 
 ### 💾 Projects
-- **[FakeBank](https://github.com/luca-pal/FakeBank)** – A Java-based console banking system with SQLite persistence, logging, and full unit testing.
+- **[FakeBank](https://github.com/luca-pal/FakeBank)** – A Java-based console banking system using raw JDBC with SQLite persistence, logging, and full unit testing.
 - **[ScubaKeep](https://github.com/luca-pal/ScubaKeep)** – A Spring Boot REST API for logging and managing scuba dives, featuring DTO mapping, validation, and unit-tested service logic.
+- **[JDBC Benchmark Tool](https://github.com/luca-pal/jdbc-benchmark-tool)** – A modular Java benchmarking tool for evaluating insert and select performance using raw JDBC, PostgreSQL, and Logback-based logging.
 
 ---
 
@@ -18,7 +18,7 @@
 - **Languages**: Java  
 - **Frameworks**: Spring Boot, Hibernate  
 - **Architecture**: MVC  
-- **Databases**: SQLite, MySQL  
+- **Databases**: SQLite, MySQL, PostgreSQL  
 - **Version Control**: Git, GitHub  
 - **Testing**: JUnit, Mockito  
 - **Build Tools**: Gradle, Maven
