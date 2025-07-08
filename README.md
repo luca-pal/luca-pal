@@ -1,7 +1,7 @@
 # 🔵🔵 Call me Luca 🔵🔵
 
 -> Computer Software Engineering student  
---> Backend-focused Java developer in progress   
+--> Software Developer in progress   
 ---> Scuba Divemaster, comfortable under pressure  
 ----> On a quest to turn coffee, tea and the occasional mate into clean code
 
