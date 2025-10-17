@@ -15,7 +15,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages**: Java  
+- **Languages**: Java, Python   
 - **Frameworks**: Spring Boot, Hibernate  
 - **Architecture**: MVC  
 - **Databases**: SQLite, MySQL, PostgreSQL  
