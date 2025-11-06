@@ -27,6 +27,6 @@
 ---
 
 ### 🧙 Currently Leveling Up
-- Spring Framework (cause it's the right season)
+- Spring Boot Framework (cause it's the right season)
 - Git & GitHub fluency
 - Front-end fundamentals: HTML, CSS, JavaScript
