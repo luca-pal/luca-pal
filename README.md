@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack
 - **Languages**: Java, Python   
 - **Frameworks**: Spring Boot, Hibernate  
-- **Architecture**: MVC  
+- **Architecture**: REST APIs, MVC  
 - **Databases**: SQLite, MySQL, PostgreSQL  
 - **Version Control**: Git, GitHub  
 - **Testing**: JUnit, Mockito  
@@ -29,4 +29,4 @@
 ### 🧙 Currently Leveling Up
 - Spring Boot Framework (cause it's the right season)
 - Git & GitHub fluency
-- Front-end fundamentals: HTML, CSS, JavaScript
+- Python & ROS
