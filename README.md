@@ -9,24 +9,24 @@
 
 ### 💾 Projects
 - **[FakeBank](https://github.com/luca-pal/FakeBank)** – A Java-based console banking system using raw JDBC with SQLite persistence, logging, and full unit testing.
-- **[ScubaKeep](https://github.com/luca-pal/ScubaKeep)** – A Spring Boot REST API for logging and managing scuba dives, featuring DTO mapping, validation, and unit-tested service logic.
+- **[ScubaKeep](https://github.com/luca-pal/ScubaKeep)** – A secure Spring Boot REST API for managing scuba dive logs, featuring JWT authentication, role-based access control, object storage integration, and a layered backend architecture.
 - **[JDBC Benchmark Tool](https://github.com/luca-pal/jdbc-benchmark-tool)** – A modular Java benchmarking tool for evaluating insert and select performance using raw JDBC, PostgreSQL, and Logback-based logging.
 
 ---
 
 ### 🛠️ Tech Stack
 - **Languages**: Java, Python   
-- **Frameworks**: Spring Boot, Hibernate  
+- **Frameworks**: Spring Boot, Spring Security, Hibernate  
 - **Architecture**: REST APIs, MVC  
-- **Databases**: SQLite, MySQL, PostgreSQL  
+- **Databases**: SQLite, MySQL, MariaDB, PostgreSQL
+- **Infrastructure**: Docker, MinIO
+- **Testing**: JUnit, Mockito, JaCoCo
 - **Version Control**: Git, GitHub  
-- **Testing**: JUnit, Mockito  
 - **Build Tools**: Gradle, Maven
-- **IDEs**: IntelliJ IDEA, NetBeans
+- **IDEs**: IntelliJ IDEA, Visual Studio Code, NetBeans
 
 ---
 
 ### 🧙 Currently Leveling Up
 - Spring Boot Framework (cause it's the right season)
-- Git & GitHub fluency
 - Python & ROS
