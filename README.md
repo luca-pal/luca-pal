@@ -1,4 +1,4 @@
-# 🔵🔵 Call me Luca 🔵🔵
+# 🔵🔵 Look a Luca 🔵🔵
 
 -> Computer Software Engineering student  
 --> Software Developer in progress   
