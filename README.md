@@ -30,3 +30,4 @@
 ### 🧙 Currently Leveling Up
 - Spring Boot Framework (cause it's the right season)
 - Python & ROS
+- React & JavaScript
