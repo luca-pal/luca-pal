@@ -1,9 +1,9 @@
 # 🔵🔵 Look a Luca 🔵🔵
 
 -> Computer Software Engineering student  
---> Software Developer in progress   
----> Scuba Divemaster, comfortable under pressure  
-----> On a quest to turn coffee, tea and the occasional mate into clean code
+--> Junior Software Developer   
+---> Scuba Divemaster, comfortable under pressure and fuelled by sushi 
+----> On a quest to turn coffee, tea and the occasional mate into clean code and interesting projects
 
 ---
 
