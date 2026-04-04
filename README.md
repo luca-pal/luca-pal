@@ -2,7 +2,7 @@
 
 -> Computer Software Engineering student  
 --> Junior Software Developer   
----> Scuba Divemaster, comfortable under pressure and fuelled by sushi 
+---> Scuba Divemaster, comfortable under pressure and fuelled by sushi
 ----> On a quest to turn coffee, tea and the occasional mate into clean code and interesting projects
 
 ---
